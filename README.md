@@ -1,8 +1,6 @@
 startup_namer app
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
-
 Introduction
 ------------
 
