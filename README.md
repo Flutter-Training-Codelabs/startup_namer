@@ -1,16 +1,26 @@
-# startup_namer
+startup_namer app
+==================================
 
-A new Flutter project.
+Starter code for the third independent project for Android Basics in Kotlin
 
-## Getting Started
+Introduction
+------------
 
-This project is a starting point for a Flutter application.
+In this codelab, I create a simple mobile Flutter app and include interactivity. I also create a second page (called a route) that the user can navigate to. Finally, I modify the app's theme (color). If you're familiar with object-oriented code and basic programming concepts—such as variables, loops, and conditionals—then you can complete the codelab. You don't need previous experience with Dart, mobile, or web programming.
 
-A few resources to get you started if this is your first Flutter project:
+What I learned
+--------------
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- How to write a Flutter app that looks natural on iOS, Android, and the web
+- Basic structure of a Flutter app
+- Finding and using packages to extend functionality
+- Using hot reload for a quicker development cycle
+- How to implement a stateful widget
+- How to create an infinite, lazily loaded list
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Getting Started
+---------------
+
+1. Download the starter code
+2. Open the project in Android Studio
+3. Complete the project in accordance with the app requirements
